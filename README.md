@@ -63,9 +63,9 @@ npm run dev
 ```
 
 Abra no navegador:  
-👉 [http://localhost:5173](http://localhost:5173)
+[http://localhost:5173](http://localhost:5173)
 
-### 5️⃣ Gerar build de produção
+### Gerar build de produção
 ```bash
 npm run build
 npm run preview
